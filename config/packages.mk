@@ -11,6 +11,10 @@ PRODUCT_PACKAGES += \
     WeatherClient \
     Updater
 
+# Omnistyle QS Custom Header Images
+PRODUCT_PACKAGES += \
+    OmniStyle
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.exfat \
