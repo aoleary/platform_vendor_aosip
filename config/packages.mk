@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
     CustomDoze \
     Gallery2 \
     LatinIME \
+    Launcher3 \
     LiveWallpapers \
     LiveWallpapersPicker \
     messaging \
